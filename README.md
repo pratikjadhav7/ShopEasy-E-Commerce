@@ -48,7 +48,7 @@ ShopEasy is a complete e-commerce project that demonstrates the end-to-end flow 
 | Application | Deployment URL |
 |---|---|
 | 🌐 Frontend | `https://shopeasyecommercewebsite.netlify.app` |
-| ⚙️ Backend REST API | `https:https://shopeasy-e-commerce-2.onrender.com` |
+| ⚙️ Backend REST API | `https://shopeasy-e-commerce-2.onrender.com` |
 | 🗄️ Database | Aiven MySQL |
 
 ### 🔗 API Base URL
